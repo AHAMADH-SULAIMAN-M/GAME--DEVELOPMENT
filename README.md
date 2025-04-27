@@ -74,7 +74,8 @@ int main() {
 }
 
 **Output :**
-
+Register No; 212224230009
+Name: AHAMADH SULAIMAN M
 ![Screenshot 2025-04-27 132226](https://github.com/user-attachments/assets/0b71ede5-d64b-4464-965a-e78d5e019d1e)
 
 
